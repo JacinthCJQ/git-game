@@ -1,4 +1,7 @@
 #!/bin/bash
+
+# ./outputclue.sh nextclue_input.cpp
+# The SixthGame Completed!!!
 if [ -z $1 ]; then 
   echo "well, someone didn't want to run the script with a file...";
   exit;
